@@ -1,0 +1,35 @@
+# environments
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+
+# experiment outputs
+logs/
+wandb/
+lightning_logs/
+results/
+data_cache/
+checkpoints/
+*.ckpt
+
+# large files
+*.h5
+*.hdf5
+*.mat
+
+# OS / IDE
+.DS_Store
+._*
+.idea/
+.vscode/
+
+# frozen reference, kept on disk only (matches legacy/ and cnmmusic/legacy/)
+legacy/
+scripts/*.sh
+
+# paper sources (assets/ carries the figures the README needs)
+paper/
+
+# stray downloads
+*.whl
