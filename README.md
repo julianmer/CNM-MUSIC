@@ -1,6 +1,6 @@
 # LEARNING ARRAY SIGNAL TOPOLOGIES AS CONDITIONAL NEURAL MANIFOLDS
 
-[Learning Array Signal Topologies as Conditional Neural Manifolds](https://arxiv.org/abs/XXXX.XXXXX)
+[Learning Array Signal Topologies as Conditional Neural Manifolds](https://arxiv.org/abs/2609.18616)
 
 ## Abstract
 
